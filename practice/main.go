@@ -1,10 +1,10 @@
 package main
 
 import (
-	"coding/practice/day16"
+	"coding/practice/day18"
 	"fmt"
 )
 
 func main() {
-	fmt.Println(day16.ProductExceptSelf([]int{1, 2, 3, 4}))
+	fmt.Println(day18.MaxTurbulenceSize([]int{9, 4, 2, 10, 7, 8, 8, 1, 9}))
 }
